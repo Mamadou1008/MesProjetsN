@@ -10,7 +10,6 @@ from sklearn.svm import SVC
 from sklearn.ensemble import RandomForestClassifier, BaggingClassifier, RandomForestRegressor
 from sklearn.metrics import precision_score, recall_score
 from sklearn.metrics import roc_curve, precision_recall_curve
-import openpyxl
 from sklearn.linear_model import LogisticRegression
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.metrics import r2_score
